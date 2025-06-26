@@ -4,3 +4,6 @@ Developed a logistic regression model to classify land cover types from satellit
 # Tech-Stack
 Python,Pandas,Numpy,Scikit-learn,Scipy,Matplotlib,Seaborn,Os
 
+# Dataset
+Dataset was provided on Kaggle
+
